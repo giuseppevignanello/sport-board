@@ -18,3 +18,21 @@ body {
     height: 20px;
     border: 1px dashed red;
 }
+
+.player{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+
+}
+
+.our_player {
+    background-color: green;
+}
+
+.opponent_player {
+    background-color: red;
+}
