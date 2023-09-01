@@ -1,0 +1,8 @@
+.board {
+    width: 80%;
+    margin: 1rem auto;
+    height: 450px;
+    background-image: url('img/basketball_field.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
